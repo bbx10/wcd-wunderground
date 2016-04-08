@@ -1,6 +1,6 @@
 # Weather Underground with Adafruit Feather WICED
 
-![Serial monitor output](./images/wunderground.jpg)
+![Serial monitor output](./images/wunderground.png)
 
 Get weather current conditions from Weather Underground using the Adafruit
 Feather WICED board and TLS.
